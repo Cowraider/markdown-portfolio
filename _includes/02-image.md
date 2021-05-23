@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Very funny meme](https://memesboy.com/wp-content/uploads/2018/03/When-A-Reccoon-Loves-Coconut-Meme.jpg)
